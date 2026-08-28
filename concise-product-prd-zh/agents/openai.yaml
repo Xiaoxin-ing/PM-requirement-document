@@ -1,0 +1,4 @@
+interface:
+  display_name: "精简产品PRD"
+  short_description: "从产品角度编写简洁、完整且可评审的中文产品PRD需求文档"
+  default_prompt: "使用 $concise-product-prd-zh 根据现有需求材料编写或优化中文PRD，保留产品规则，删除重复说明和技术实现。"
